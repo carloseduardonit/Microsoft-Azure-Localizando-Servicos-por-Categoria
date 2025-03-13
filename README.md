@@ -1,6 +1,7 @@
 # Microsoft Azure - Localizando Serviços por Categoria
 ## Entendendo o Desafio
-    Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui e escreva um resumo do que você aprendeu durante o desenvolvimento do lab. Para concluir este desafio, você deverá entregar o link de um repositório no GitHub contendo um arquivo README com o seu resumo. Siga os passos abaixo para garantir o sucesso dessa tarefa.
+
+Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui e escreva um resumo do que você aprendeu durante o desenvolvimento do lab. Para concluir este desafio, você deverá entregar o link de um repositório no GitHub contendo um arquivo README com o seu resumo. Siga os passos abaixo para garantir o sucesso dessa tarefa.
 
 ## Passo a Passo:
 
