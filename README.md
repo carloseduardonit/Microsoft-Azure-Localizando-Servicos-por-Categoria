@@ -13,10 +13,10 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore
     - Clique em **Sign Up** e siga as instruções para criar sua conta.
 2. **Crie um Novo Repositório**
     - No seu perfil GitHub, clique no ícone **"+"** no canto superior direito da tela.
-    - Selecione a opção New repository.
+    - Selecione a opção **New repository**.
     - Defina um nome relevante para o repositório, como **resumo-do-lab**.
     - Adicione uma breve descrição, como **"Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO"**.
-    - Marque a opção **Initialize this repository with a README** para adicionar um arquivo ``README.md` automaticamente.
+    - Marque a opção **Initialize this repository with a README** para adicionar um arquivo `README.md` automaticamente.
     - Clique em Create repository.
 3. **Edite o Arquivo README.md**
     - No repositório recém-criado, clique no arquivo `README.md`.
